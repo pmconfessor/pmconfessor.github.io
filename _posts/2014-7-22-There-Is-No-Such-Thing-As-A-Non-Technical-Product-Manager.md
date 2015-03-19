@@ -1,3 +1,8 @@
+---
+layout: post
+title: There Is No Such Thing as a "Non-Technical Product Manager"
+---
+
 ## There is no such thing as a “Non-Technical Product Manager”
 
 ![What is a product manager](../images/what_is_a_product_manager-300x246.png)
