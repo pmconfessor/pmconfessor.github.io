@@ -14,8 +14,12 @@ Most importantly, try building something! Try building a product from scratch on
 
 Check out these books. They are quick reads, well-written, and have helped me do product management right!
 
-- The Product Manager’s Survival Guide: Everything You Need to Know to Succeed as a Product Manager
-- Take Charge Product Management
-- Confessions of a Product Manager
+- [The Product Manager’s Survival Guide: Everything You Need to Know to Succeed as a Product Manager][SurvivalGuideBook]
+- [Take Charge Product Management][TakeChargeBook]
+- [Confessions of a Product Manager][ConfessionsBook]
 
 If you can’t do any of these (or don’t love doing any of these), I am sorry to inform you that you are **not** a product manager. I don’t care what your LinkedIn profile says or what title you gave yourself on your resume. If all you can do is discuss margins, market size, growth, and go-to-market strategy, you’re a business person, not a product manager. On the other hand, if you can also design experiences that drive user behavior, use data to make decisions, lead teams (technical and non-technical), communicate effectively, listen to others, understand products at a technical level, and survive over-bearing CEOs, then you are probably an awesome product manager!
+
+[SurvivalGuideBook]: http://www.amazon.com/gp/product/007180546X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007180546X&linkCode=as2&tag=confeofprodum-20&linkId=MG2A3GOVH4TDGQ32
+[TakeChargeBook]: http://www.amazon.com/gp/product/0615379273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0615379273&linkCode=as2&tag=confeofprodum-20&linkId=BF3CI7DJVUV3RLMI
+[ConfessionsBook]: http://www.amazon.com/gp/product/B008FHB2PW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008FHB2PW&linkCode=as2&tag=confeofprodum-20&linkId=HC24F26CSBT27Y6D
